@@ -261,7 +261,7 @@ def find_duty_by_day():
 # Send today food menu
 def send_today_food_menu(bot, message):
     logging.info(f"Получен запрос на сегодняшнее меню от пользователя {message.chat.id}")
-    url = 'https://livint.ru/food'
+    url = 'https://ssssssssss.ru/food'
     response = requests.get(url)
     if response.status_code == 200:
         logging.info("Успешно получена страница меню блюд")
