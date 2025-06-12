@@ -99,7 +99,7 @@
 ## ▶️ Запуск
 Запустите бота командой:  
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
