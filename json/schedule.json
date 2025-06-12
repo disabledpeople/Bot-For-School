@@ -1,0 +1,206 @@
+{
+  "8": {               
+    "Monday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject A", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject B", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject C", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject D", "teacher": "Teacher 4" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject E", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject F", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject G", "teacher": "Teacher 7" }
+    ],
+
+    "Tuesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject H", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject I", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject J", "teacher": "Teacher 2" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject K", "teacher": "Teacher 3" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject L", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject M", "teacher": "Teacher 5" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject N", "teacher": "Teacher 6" }
+    ],
+
+    "Wednesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject O", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject P", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject Q", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject R", "teacher": "Teacher 6" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject S", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject T", "teacher": "Teacher 1" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject U", "teacher": "Teacher 7" }
+    ],
+
+    "Thursday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject V", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject W", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject X", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject Y", "teacher": "Teacher 2" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject Z", "teacher": "Teacher 6" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AA", "teacher": "Teacher 3" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AB", "teacher": "Teacher 1" }
+    ],
+
+    "Friday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject AC", "teacher": "Teacher 2" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject AD", "teacher": "Teacher 5" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject AE", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject AF", "teacher": "Teacher 7" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject AG", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AH", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AI", "teacher": "Teacher 1" }
+    ]
+  },
+  "9": {               
+    "Monday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject A", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject B", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject C", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject D", "teacher": "Teacher 4" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject E", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject F", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject G", "teacher": "Teacher 7" }
+    ],
+
+    "Tuesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject H", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject I", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject J", "teacher": "Teacher 2" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject K", "teacher": "Teacher 3" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject L", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject M", "teacher": "Teacher 5" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject N", "teacher": "Teacher 6" }
+    ],
+
+    "Wednesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject O", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject P", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject Q", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject R", "teacher": "Teacher 6" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject S", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject T", "teacher": "Teacher 1" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject U", "teacher": "Teacher 7" }
+    ],
+
+    "Thursday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject V", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject W", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject X", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject Y", "teacher": "Teacher 2" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject Z", "teacher": "Teacher 6" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AA", "teacher": "Teacher 3" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AB", "teacher": "Teacher 1" }
+    ],
+
+    "Friday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject AC", "teacher": "Teacher 2" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject AD", "teacher": "Teacher 5" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject AE", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject AF", "teacher": "Teacher 7" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject AG", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AH", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AI", "teacher": "Teacher 1" }
+    ]
+  },
+  "10": {               
+    "Monday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject A", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject B", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject C", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject D", "teacher": "Teacher 4" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject E", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject F", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject G", "teacher": "Teacher 7" }
+    ],
+
+    "Tuesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject H", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject I", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject J", "teacher": "Teacher 2" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject K", "teacher": "Teacher 3" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject L", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject M", "teacher": "Teacher 5" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject N", "teacher": "Teacher 6" }
+    ],
+
+    "Wednesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject O", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject P", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject Q", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject R", "teacher": "Teacher 6" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject S", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject T", "teacher": "Teacher 1" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject U", "teacher": "Teacher 7" }
+    ],
+
+    "Thursday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject V", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject W", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject X", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject Y", "teacher": "Teacher 2" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject Z", "teacher": "Teacher 6" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AA", "teacher": "Teacher 3" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AB", "teacher": "Teacher 1" }
+    ],
+
+    "Friday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject AC", "teacher": "Teacher 2" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject AD", "teacher": "Teacher 5" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject AE", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject AF", "teacher": "Teacher 7" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject AG", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AH", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AI", "teacher": "Teacher 1" }
+    ]
+  },
+  "11": {               
+    "Monday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject A", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject B", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject C", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject D", "teacher": "Teacher 4" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject E", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject F", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject G", "teacher": "Teacher 7" }
+    ],
+
+    "Tuesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject H", "teacher": "Teacher 1" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject I", "teacher": "Teacher 2" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject J", "teacher": "Teacher 2" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject K", "teacher": "Teacher 3" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject L", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject M", "teacher": "Teacher 5" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject N", "teacher": "Teacher 6" }
+    ],
+
+    "Wednesday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject O", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject P", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject Q", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject R", "teacher": "Teacher 6" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject S", "teacher": "Teacher 5" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject T", "teacher": "Teacher 1" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject U", "teacher": "Teacher 7" }
+    ],
+
+    "Thursday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject V", "teacher": "Teacher 3" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject W", "teacher": "Teacher 4" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject X", "teacher": "Teacher 5" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject Y", "teacher": "Teacher 2" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject Z", "teacher": "Teacher 6" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AA", "teacher": "Teacher 3" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AB", "teacher": "Teacher 1" }
+    ],
+
+    "Friday": [
+      { "time": "1. (08:30-09:10)", "subject": "Subject AC", "teacher": "Teacher 2" },
+      { "time": "2. (09:20-10:00)", "subject": "Subject AD", "teacher": "Teacher 5" },
+      { "time": "3. (10:10-10:50)", "subject": "Subject AE", "teacher": "Teacher 3" },
+      { "time": "4. (11:20-12:00)", "subject": "Subject AF", "teacher": "Teacher 7" },
+      { "time": "5. (12:10-12:50)", "subject": "Subject AG", "teacher": "Teacher 4" },
+      { "time": "6. (13:00-13:40)", "subject": "Subject AH", "teacher": "Teacher 6" },
+      { "time": "7. (13:50-14:30)", "subject": "Subject AI", "teacher": "Teacher 1" }
+    ]
+  }
+}
