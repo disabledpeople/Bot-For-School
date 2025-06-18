@@ -135,3 +135,35 @@ python main.py
 Спасибо за использование! Если хотите помочь развитию проекта — создавайте pull request или открывайте issue.
 
 ---
+---
+📦bot_school(final)
+ ┣ 📂book
+ ┃ ┣ 📂10
+ ┃ ┣ 📂11
+ ┃ ┣ 📂8
+ ┃ ┗ 📂9
+ ┣ 📂json
+ ┃ ┣ 📜anon_feedback_users.json
+ ┃ ┣ 📜daily_stats.json
+ ┃ ┣ 📜dejur.json
+ ┃ ┣ 📜feedback_users.json
+ ┃ ┣ 📜schedule.json
+ ┃ ┣ 📜teachers.json
+ ┃ ┗ 📜users.json
+ ┣ 📜admin.py
+ ┣ 📜anon_feedback.py
+ ┣ 📜book.py
+ ┣ 📜bot_father_registration.txt
+ ┣ 📜conf.py
+ ┣ 📜dejur.py
+ ┣ 📜exаms.py
+ ┣ 📜food.py
+ ┣ 📜holidays.py
+ ┣ 📜homework_bot.log
+ ┣ 📜important_numbers.py
+ ┣ 📜main.py
+ ┣ 📜schedule.py
+ ┣ 📜teacher.py
+ ┣ 📜user_profile.py
+ ┗ 📜utils.py
+---
