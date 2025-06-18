@@ -91,26 +91,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-
----
-
-## 🔧 Настройка
-
-* В фа
-
-
-2. Создайте и активируйте виртуальное окружение (рекомендуется):  
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   venv\Scripts\activate     # Windows
-   ```
-
-3. Установите зависимости:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## 🔧 Настройка
