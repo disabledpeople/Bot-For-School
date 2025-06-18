@@ -4,26 +4,6 @@ import requests
 import os 
 from datetime import datetime
 from conf import FOOD_URL
-# Отправка PDF-файлов из папки
-def send_pdfs_from_folder(bot, chat_id):
-    logging.debug(f"Отправка PDF-файлов пользователю {chat_id}")
-    folder_path = 'book'  # Specify the correct folder path
-    pdf_files = [f for f in os.listdir(folder_path) if f.endswith('.pdf')]
-
-    if not pdf_files:
-        logging.error("В указанной папке нет PDF")
-        return
-
-    try:
-        bot.send_chat_action(chat_id, 'upload_document')
-        for pdf_file in pdf_files:
-            file_path = os.path.join(folder_path, pdf_file)
-            with open(file_path, 'rb') as f:
-                bot.send_document(chat_id, f, caption=pdf_file)
-        logging.info("PDF-файлы успешно отправлены.")
-    except Exception as e:
-        logging.error(f"Ошибка при отправке PDF-файлов: {e}")
-
 # Send today food menu
 def send_today_food_menu(bot, message):
     logging.info(f"Получен запрос на сегодняшнее меню от пользователя {message.chat.id}")
